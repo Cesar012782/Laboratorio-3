@@ -1,0 +1,67 @@
+El machine learning es una rama de la inteligencia artificial que busca generar tecnologías con capacidad de aprender. Sus algoritmos permiten que un sistema computacional procese datos de forma automática, detecte regularidades y tome decisiones basadas en esa información. 
+
+El machine learning les enseña a las máquinas a procesar la información con distintos algoritmos (como los de regresión o árboles de decisión), que ayudan a que aprendan con ejemplos que aplicarán cuando lo necesiten.
+
+Por lo tanto, el machine learning sirve para procesar grandes volúmenes de información que ayuden a resolver problemas de distinta complejidad, por ejemplo:  
+
+Las rutas que Waze traza a los usuarios para evitar embotellamientos y demoras en su camino
+Identificar tendencias en enfermedades de una comunidad, como síntomas, edad de los pacientes o tiempo de recuperación
+Prevenir fraudes en instituciones bancarias
+Hallar oportunidades de inversión para empresas
+Mejorar la seguridad pública al encontrar patrones entre sitios con alta criminalidad
+En general, el machine learning optimiza el análisis de información y reduce los errores o vulnerabilidades en actividades de la vida diaria
+
+Al ser una modalidad de inteligencia artificial, el machine learning opera mediante el aprovechamiento de la potencia computacional para analizar información en periodos relativamente breves y para llevar a cabo complejo cálculos que permitan estimar resultados futuros.
+
+Mediante la iteración de los datos estas tecnologías son capaces de extraer patrones, tendencias y regularidades que aprenden, las cuales sirven como parámetros para tomar decisiones en el futuro. Como puedes ver, la estadística es una de las bases del machine learning, pues gracias a esa información se crean algoritmos que calculan el mejor resultado para una tarea en cuestión de minutos y horas (cuando antes llevaba días o semanas enteras, según el volumen de información).
+
+Es importante tener en cuenta los siguientes factores a la hora de utilizar estas tecnologías:
+
+A mayor cantidad de datos, las predicciones se vuelven más confiables y precisas.
+Requieren un proceso de entrenamiento antes de poder generar predicciones.
+Se basan en la generación de modelos predictivos como producto de la detección de patrones.
+El machine learning permite procesar diferentes tipos de información, como imágenes, textos, sonidos o valores numéricos.
+La capacidad del computador que utilices dependerá de las acciones que quieras llevar a cabo.
+Siempre existe un margen de error en la toma de decisión de los sistemas de machine learning, pero generalmente es mucho menor que la humana.
+Aunque el aprendizaje artificial es una habilidad que se comenzó a explorar de forma profunda desde mediados del siglo XX, la llegada del internet y el desarrollo de sistemas computacionales más complejos lo convirtió en un aspecto importante de la automatización de procesos, a través de la gestión de datos ingentes que se obtienen en el entorno digital.
+
+Como puedes ver, el machine learning es solo un tipo de algoritmo de inteligencia artificial (IA) entre muchos otros. Como tal, el aprendizaje de máquinas es un campo de esta disciplina.
+
+La principal diferencia que existe entre ambas tecnologías radica en que la IA en general busca crear sistemas que tomen decisiones de forma automatizada al cumplir con ciertas reglas. Por el contrario, el aprendizaje automático requiere que los sistemas sean capaces de extraer información a lo largo del tiempo, con el fin de mejorar su capacidad de toma de decisión.
+
+El deep learning es una rama del machine learning que va más allá de las capacidades de los algoritmos simples de IA y de aprendizaje automatizado. Estas tecnologías aspiran a imitar de una forma más cercana el funcionamiento del cerebro humano: con redes neuronales y aprendizaje más profundo.  
+
+Los sistemas de deep learning pueden procesar datos más sofisticados y pesados, y no necesitan que una persona se los indique, pero sí que se les nutra con una gran cantidad de información para lograrlo. Es por ello que estas tecnologías son ideales para reconocer patrones que los seres humanos no podemos identificar, debido a nuestras limitadas capacidades de procesamiento.
+
+Naturalmente, el deep learning requiere de sistemas de cómputo mucho más complejos y con una capacidad de procesamiento de información elevado.
+
+Aprendizaje supervisado
+Como lo indica su nombre, la máquina aprende con problemas cuyas respuestas ya conoce el programador. El sistema se alimenta entonces con datos etiquetados por el usuario y ejemplos con soluciones para que analice e identifique patrones de los que pueda aprender. El algoritmo hace predicciones y el programador verifica que sean correctas, y mientras haya más repeticiones, los errores pueden reducirse y se llega al nivel deseado.
+
+Aprendizaje no supervisado
+A diferencia del algoritmo de aprendizaje supervisado, en el no supervisado se utilizan datos que casi no cuentan con etiquetas. No existe verificación por parte de un usuario o programador, sino que la máquina debe determinar los patrones analizando los datos con los que se le alimenta.
+
+Aprendizaje semisupervisado
+Combina los dos algoritmos anteriores; por lo tanto, tiene en cuenta datos marcados y no marcados.
+
+Aprendizaje reforzado
+Este se basa en el ensayo y el error. Tiene reglas establecidas, con un conjunto de acciones, parámetros y valores finales. El algoritmo elige una acción y analiza las consecuencias, aprendiendo cada vez cuál es el mejor resultado.
+
+1. Algoritmos de reducción de dimensión
+2. Algoritmos de árbol de decisión
+3. Algoritmos bayesianos
+4. Algoritmos de agrupación o cluster
+5. Algoritmos de regresión
+6. Algoritmos de redes neuronales
+7. Algoritmos de aprendizaje profundo
+8. Algoritmos a priori
+
+1. BenchSci
+2. The North Face
+3. Traductor de Google
+4. Metro de Barcelona
+5. Coursera
+6. NotCo
+7. Spotify
+8. Bimbo
+9. Nike
